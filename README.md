@@ -1,6 +1,6 @@
-# jivosite-chat-plugin
-# Переименовать используемый файл в "jivo-chat" 
-Jivosite Chat Wordpress Plugin
+# jivosite-chat-plugin Wordpress
+ Переименовать используемый файл в 
+ #"jivo-chat" 
 
 "jivo-chat-1" с возможностью подключения в хедере и футере (хедер закомментирован), подключается в футере
 "jivo-chat-2" полностью соответствует требованиям дживосайта
